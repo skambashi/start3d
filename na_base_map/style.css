@@ -1,0 +1,28 @@
+.subunit.CAN { fill: #486F88; }
+.subunit.USK { fill: #4A9470; }
+.subunit.USB { fill: #4A9470; }
+.subunit.USH { fill: #4A9470; }
+.subunit-boundary {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+.place-label {
+	font-family: Helvetica;
+	font-size: 10px;
+	fill: #000;
+	fill-opacity: .5;
+}
+.subunit-label {
+  fill: #000;
+  fill-opacity: .5;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  text-anchor: middle;
+}
+.place {
+	fill: #000;
+	fill-opacity: .5;
+}
